@@ -1,0 +1,11 @@
+License
+
+convert4console  
+Copyright © 2025 Kenneth Vaughan
+
+This software is licensed for personal, non-commercial use only. Redistribution, modification, reverse engineering, or republishing is strictly prohibited without prior written permission from the author.
+
+You may use and enjoy this tool freely on your own devices. Any public hosting, repackaging, or claim of authorship is a violation of this license.
+
+This project is protected under applicable copyright laws.  
+All rights reserved.
