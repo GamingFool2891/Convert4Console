@@ -1,7 +1,7 @@
 ## License
 
 **convert4console**  
-Copyright © 2024 Kenneth Vaughan
+Copyright © 2025 Kenneth Vaughan
 
 This software is licensed for **personal, non-commercial use only**. Redistribution, modification, reverse engineering, or republishing is **strictly prohibited** without prior written permission from the author.
 
