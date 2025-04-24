@@ -48,6 +48,7 @@ Whether you're a casual movie lover or a power user, convert4console is built to
 - Backup / restore converted history  
 - Smarter update system  
 - Dependency self-healing improvements  
+- Automatic nfo file output
 
 And possibly...
 
@@ -70,4 +71,4 @@ And possibly...
 - Reddit: [u/Gaming_Fool2891]  
 - Telegram: [https://t.me/Nintendo_Brew_Chat](https://t.me/Nintendo_Brew_Chat) / [https://t.me/GamingFool2891](https://t.me/GamingFool2891)
 
-**Collaboration is welcome. Theft isn't.**
+**Collaboration is welcome.**
