@@ -31,7 +31,7 @@ This lightweight yet powerful Bash script automatically scans, analyzes, and con
 - Works great with **Switch L4T Ubuntu** to watch your collection via **NXMP** or **PPlay**  
 - **Automatically checks for missing or outdated dependencies** and installs/updates them  
 - **Built-in update checker** – detects new versions and helps you stay current  
-- **Lightweight, stealthy anti-tampering** and integrity verification system built-in
+
 
 ---
 
